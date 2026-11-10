@@ -1,0 +1,1 @@
+AVAMALE AA02 whatsapp event endpoint (anonymous request count only).
