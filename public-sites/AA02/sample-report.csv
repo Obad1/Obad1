@@ -1,0 +1,6 @@
+sep=,
+"Bank reference","Ledger reference","Result","Recommended action"
+"B001 INV-100","L001 inv-100","MATCH: same NGN amount and transaction reference","Confirm date and posting period"
+"B004 INV-102","L003 and L004 INV-102","REVIEW: duplicate candidate ledger entries","Investigate duplicate posting; do not auto-reverse"
+"B006 FX-001 USD","L006 FX-001 NGN","OPEN: currency mismatch","Request exchange-rate and journal evidence"
+"NOTICE","Fictional synthetic training example; not a real engagement, audit, or verified client report."
