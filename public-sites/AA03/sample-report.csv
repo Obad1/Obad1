@@ -1,0 +1,6 @@
+sep=,
+"Document comparison","Source values","Result","Recommended action"
+"Invoice vs packing list cartons","Invoice 100; packing list 98","OPEN: quantity variance","Confirm shipped quantity and amend source if needed"
+"Invoice vs bill of lading consignee","Synthetic Buyer vs Synthetic Other Buyer","OPEN: party mismatch","Verify named consignee before submission"
+"Packing list vs bill of lading gross weight","490 kg vs 490 kg","MATCH: aligned value","Check original signed versions"
+"NOTICE","Fictional synthetic training example; not a real engagement, audit, or verified client report."
