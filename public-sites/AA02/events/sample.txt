@@ -1,0 +1,1 @@
+AVAMALE AA02 sample event endpoint (anonymous request count only).
