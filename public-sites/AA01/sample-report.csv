@@ -1,0 +1,6 @@
+sep=,
+"Control","Source","Result","Recommended action"
+"Access review","Synthetic Access Policy §3.2","REVIEW: policy describes quarterly review but no dated evidence","Request latest approved review record; customer owns final response"
+"Incident response","Synthetic IR Plan §2","OPEN: policy claims annual test without supporting test record","Obtain dated exercise evidence"
+"Data retention","Synthetic Retention Policy §4","MATCH: documented retention schedule in source","Confirm customer approves wording"
+"NOTICE","Fictional synthetic training example; not a real engagement, audit, or verified client report."
