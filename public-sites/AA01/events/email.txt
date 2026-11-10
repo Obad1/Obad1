@@ -1,0 +1,1 @@
+AVAMALE AA01 email event endpoint (anonymous request count only).
