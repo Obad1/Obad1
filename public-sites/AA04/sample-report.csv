@@ -1,0 +1,6 @@
+sep=,
+"PO / invoice / receipt","Source values","Result","Recommended action"
+"Price variance","PO unit price NGN 3,200; invoice NGN 3,350","OPEN: unit-price variance","Obtain documented price approval"
+"Quantity received","PO 100; GR 96; invoice 100","REVIEW: short receipt","Request goods received verification before payment"
+"Supplier reference","PO supplier ID S-103; invoice S-103","MATCH: supplied reference agrees","Confirm approved supplier master"
+"NOTICE","Fictional synthetic training example; not a real engagement, audit, or verified client report."
